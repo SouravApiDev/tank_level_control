@@ -7,4 +7,7 @@ Images
 <img src="https://raw.githubusercontent.com/SouravApiDev/tank_level_control/main/Screenshot%202024-08-10%20171046.png">
 Tank Level Controller by using Attiny13A chip
 <br><br>
-<img src="https://raw.githubusercontent.com/SouravApiDev/tank_level_control/main/Screenshot%202024-08-10%20171046.png">
+<video width="320" height="240" controls>
+  <source src="https://example.com/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
